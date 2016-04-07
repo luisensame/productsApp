@@ -1,0 +1,10 @@
+{
+  "name": "productsApp",
+  "description": "Esta es la app del tutorial MEAN stack",
+  "version": "0.0.1",
+  "license": "copyrigth",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
